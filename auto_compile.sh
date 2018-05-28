@@ -1,8 +1,4 @@
 #!/bin/bash
-#copy and paste this code into your ~/.bash_profile file 
-#c will comile and run c code
-#cpp will coompile and run c++ code 
-#you must have gcc and g++ installed for this to work, which 
 
 compile_c() 
 {
